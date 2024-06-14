@@ -15,5 +15,5 @@
         "_type": "openai"
     },
     "output_key": "text",
-    "_type": "llm_bash_chain"
+    "_type": "llm_chain"
 }
